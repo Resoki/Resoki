@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Qui suis-je ?
+Developpeur FullStack Javascript/TypeScript
+
 <!--
 **Resoki/Resoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
