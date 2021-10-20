@@ -3,8 +3,8 @@
 
 
 ## Qui suis-je ❔ ##
-Je suis agé de 20 ans, passionné d'informatique et de nouvelles technologies depuis petit.
-Je developpe des sites web/applications, et aussi des bots Discord.
+Je suis agé de 20 ans, passionné d'informatique et de nouvelles technologies depuis petit. 
+Je developpe des sites web/applications, et aussi des bots Discord.<br>
 Je propose également des services en Freelance.
 
 
