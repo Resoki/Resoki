@@ -18,6 +18,7 @@ Je propose également des services en Freelance.
 - [x] Code propre et optimisé
 - [x] Utilisation d'API: recupération et traitement de données
 - [x] Utilisation de modules/dépendances Node 
+- [x] Utilisation de base de données
 
 ## Me contacter 💬 ##
 Vous pouvez m'écrire sur:
