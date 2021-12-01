@@ -21,7 +21,7 @@ Je propose des services en Freelance.
 ## Me contacter 💬 ##
 Vous pouvez m'écrire sur:
 - <img height="30" src="https://img.shields.io/badge/Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white"> → **Resoki#2241**
-- <-img height="30" src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=black" > → **Resoki**
+- <img height="30" src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=black" > → **Resoki**
 
 
 
