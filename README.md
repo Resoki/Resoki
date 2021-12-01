@@ -14,13 +14,14 @@ Je propose des services en Freelance.
 
 <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="30" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height="30" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img height="30" src="https://img.shields.io/badge/VSCode-222244.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
 
-- [x] Spécialisé VueJs et ReactJs
-- [x] Utilisation de modules /dépendances Node/ Base de données/ API
+- [x] Spécialisé VueJs et ReactJs.
+- [x] Utilisation de modules /dépendances Node/ Base de données/ API.
 - [x] Utilisation des meilleurs technologies de travail collaboratif tel que GitHub ou GitLab.
 
 ## Me contacter 💬 ##
 Vous pouvez m'écrire sur:
 - <img height="30" src="https://img.shields.io/badge/Discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white"> → **Resoki#2241**
+-<img height="30" src="https://img.shields.io/badge/Mail-7289da.svg?style=for-the-badge&logo=mail&logoColor=white"> → **Resoki#2241**
 
 
 ## Stats GitHub ##
