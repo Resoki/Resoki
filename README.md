@@ -16,9 +16,8 @@ Je propose des services en Freelance.
 
 - [x] Spécialisé VueJs et ReactJs
 - [x] Code propre et optimisé
-- [x] Utilisation d'API: recupération et traitement de données
-- [x] Utilisation de modules/dépendances Node 
-- [x] Utilisation de base de données
+- [x] Utilisation de modules /dépendances Node/ Base de données/ API
+- [x] Utilisation des meilleurs technologies de travail collaboratif tel que GitHub ou GitLab.
 
 ## Me contacter 💬 ##
 Vous pouvez m'écrire sur:
