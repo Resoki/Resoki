@@ -14,7 +14,7 @@ Je propose également des services en Freelance.
 
 <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img height="30" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height="30" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img height="30" src="https://img.shields.io/badge/VSCode-222244.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue">
 
-
+- [x] Spécialisé VueJs et ReactJs
 - [x] Code propre et optimisé
 - [x] Utilisation d'API: recupération et traitement de données
 - [x] Utilisation de modules/dépendances Node 
