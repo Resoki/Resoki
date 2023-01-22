@@ -3,7 +3,7 @@
 
 
 ## Qui suis-je ❔ ##
-Je suis agé de 20 ans, passionné d'informatique et de nouvelles technologies depuis petit. 
+Je suis agé de 21 ans, passionné d'informatique et de nouvelles technologies depuis petit. 
 Actuellement alternant au sein de LDLC Groupe au pôle R&D en tant que développeur JS FullStack.
 Je propose des services en Freelance.
 
